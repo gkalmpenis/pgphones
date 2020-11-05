@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.png"/> <br> 
+  <img src="./pgphones/images/logo.png"/> <br> 
   An e-commerce website for smartphones. Built with pure <i>PHP</i> and <i>CSS</i>.
 </p>
 <br> 
