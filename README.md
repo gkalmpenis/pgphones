@@ -23,6 +23,71 @@ This application is suggested to be installed with the help of **XAMPP** (https:
 
 
 ## Visuals
+* User registration procedure
+<details>  <summary>Click to see it in action</summary>
+  <p align="center">
+    <img src="./img_for_readme/1.gif"/>
+    <br>
+    <b>Successful registration</b>
+    <br>
+    <sub><i>(GIF - Duration: 14 seconds)</i></sub> <br> <br>
+    <img src="./img_for_readme/1.1.gif"/>
+    <br>
+    <b>Attempting to register with an already registered email address</b>
+    <br>
+    <sub><i>(GIF - Duration: 14 seconds)</i></sub>
+  </p>
+</details>
+<br>
+
+* Login procedure
+<details>  <summary>Click to see it in action</summary>
+  <p align="center"> <img src="./img_for_readme/2.gif"/>
+    <br>
+    <sub><i>(GIF - Duration: 8 seconds)</i></sub>
+  </p>
+</details>
+<br>
+
+* Browsing products
+<details>  <summary>Click to see it in action</summary>
+  <p align="center"> <img src="./img_for_readme/3.gif"/>
+    <br>
+    <sub><i>(GIF - Duration: 14 seconds)</i></sub>
+  </p>
+</details>
+<br>
+
+* Adding and removing an item from cart
+<details>  <summary>Click to see it in action</summary>
+  <p align="center"> <img src="./img_for_readme/4.gif"/>
+    <br>
+    <sub><i>(GIF - Duration: 14 seconds)</i></sub>
+  </p>
+</details>
+<br>
+
+* Completing shopping (checkout)
+<details>  <summary>Click to see it in action</summary>
+  <p align="center"> <img src="./img_for_readme/5.gif"/>
+    <br>
+    <b> Checking out without user account </b> <br>
+    <sub><i>(GIF - Duration: 14 seconds)</i></sub> <br>
+    <br>
+    <img src="/img_for_readme/5.1.png"/ width="650">
+    <br>
+    <b> Checking out with user account - Shipping details are filled automatically </b>
+  </p>
+</details>
+<br>
+
+* Each time a user who has not finished shopping logs in, his cart has remained the same
+<details>  <summary>Click to see it in action</summary>
+  <p align="center"> <img src="./img_for_readme/6.gif"/>
+    <br>
+    <sub><i>(GIF - Duration: 8 seconds)</i></sub>
+  </p>
+</details>
 <br>
 
 ## Features
