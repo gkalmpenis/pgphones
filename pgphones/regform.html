@@ -1,0 +1,20 @@
+<button class="regbtn" type="button" onclick="document.getElementById('registerFormBackground').style.display='block'" style="width:auto;">Register</button>
+	<div id="registerFormBackground">
+		<form name="regform" class="register-form-content" method="post" action="register.php">
+			<img id="imgleft" src="images/registration.png"><img id="imgright" src="images/registration.png"><h2>Registration form</h2>
+			 <input type="text" placeholder="Enter your full name" name="name" required>
+			 <input type="text" placeholder="Enter your email" name="email" required>
+			 <input type="password" placeholder="Enter a password" name="password" required>
+			 <input type="text" placeholder="Enter your phone number" name="phone" required>
+			 <input type="text" placeholder="Enter your street name" name="st_name" required>
+			 <input type="text" placeholder="Enter your street number" name="st_num" required>
+			 <input type="text" placeholder="Enter your zipcode" name="zip" required>
+			 <input type="text" placeholder="Enter your city" name="city" required>
+			 <input type="text" placeholder="Enter your country" name="country" required>
+			<button type="submit" class="regbtn">Register</button>
+		</form>
+		
+		
+		<!-- JS to dissapear the registration form -->
+		<script type="text/javascript" src="form_dissapear.js"></script>
+</div>
