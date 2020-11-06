@@ -81,7 +81,7 @@ This application is suggested to be installed with the help of **XAMPP** (https:
 </details>
 <br>
 
-* Each time a user who has not finished shopping logs in, his cart has remained the same
+* Each time a user who has not finished shopping logs in, his cart is waiting there for him
 <details>  <summary>Click to see it in action</summary>
   <p align="center"> <img src="./img_for_readme/6.gif"/>
     <br>
