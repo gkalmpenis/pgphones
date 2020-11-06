@@ -91,6 +91,9 @@ This application is suggested to be installed with the help of **XAMPP** (https:
 <br>
 
 ## Features
+* Asynchronous load of each brand's products according to user selection, in their specific area of the page.
+* Asynchronous update of the cart items, in its specific area of the page, when the user adds or removes something from his cart.
+* Usage of session variables in PHP to keep track of each user's actions (users without an account will also have their cart waiting for them when they return to the page).
 <br>
 
 ## Notes
